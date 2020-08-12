@@ -14,5 +14,9 @@ shrug是一个模拟Git版本管理器的初级产品，使用shell编程，已�
 + ./shrug-checkout b1                                                                 　　转换到分支b１
 
 ### Example
-#### subset 0
+![](https://github.com/EOS1O/shrug/blob/master/imag/1.png)
+![](https://github.com/EOS1O/shrug/blob/master/imag/2.png)
+![](https://github.com/EOS1O/shrug/blob/master/imag/3.png)
+![](https://github.com/EOS1O/shrug/blob/master/imag/4.png)
+![](https://github.com/EOS1O/shrug/blob/master/imag/5.png)
 
