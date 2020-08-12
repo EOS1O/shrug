@@ -15,13 +15,4 @@ shrug是一个模拟Git版本管理器的初级产品，使用shell编程，已�
 
 ### Example
 #### subset 0
-(```)
-$ ls -d .shrug
-ls: cannot access '.shrug': No such file or directory
-$ shrug-init
-Initialized empty shrug repository in .shrug
-ls -d .shrug
-.shrug
-$ shrug-init
-shrug-init: error: .shrug already exists
-(```)
+
